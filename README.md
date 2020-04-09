@@ -1,4 +1,4 @@
-# Boot Strap Project Website
+# Bootstrap Project Website
 
 
 The URL used for layout is: 
