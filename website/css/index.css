@@ -1,21 +1,19 @@
-.clear {
-  clear: both; }
-
-nav {
-  float: left;
-  color: #FF0000;
-  font-family: Helvetica, sans-serif; }
-  nav ul li ul.sub-nav {
-    display: none; }
-
-.box {
-  width: 200px;
-  height: 200px;
-  background: red; }
-
-.box2 {
-  width: 200px;
-  height: 200px;
-  background: gray; }
-
-/*# sourceMappingURL=main.css.map */
+html {
+  font-size: 62.5%;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Bebas Neue', cursive;
+}
+p,
+a {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.6rem;
+}
+nav .logo {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 3.5rem;
+}
+/*# sourceMappingURL=index.css.map */
