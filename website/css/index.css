@@ -29,8 +29,13 @@ nav .logo {
   border: none;
   cursor: pointer;
   text-align: center;
+  transition: all 0.25s ease;
+  margin-bottom: 20px;
 }
 .best-sellers h5 {
   font-size: 1.5rem;
+}
+.best-sellers:hover {
+  box-shadow: 0 14px 28px rgba(189, 189, 189, 0.25), 0 10px 10px rgba(158, 158, 158, 0.22);
 }
 /*# sourceMappingURL=index.css.map */
