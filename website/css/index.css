@@ -22,12 +22,29 @@ a {
 .section-divide {
   margin-bottom: 90px;
 }
-nav {
-  background: #9aaf8c;
-}
 nav .logo {
   font-family: 'Roboto Slab', serif;
   font-size: 3.5rem;
+}
+footer a {
+  color: rgba(0, 0, 0, 0.5);
+}
+footer a:hover {
+  color: rgba(0, 0, 0, 0.9);
+}
+footer .social-links {
+  margin-bottom: 20px;
+}
+footer .social-links a {
+  color: #000;
+}
+footer .social-links i {
+  font-size: 4rem;
+  margin-right: 20px;
+}
+footer .copyright {
+  display: flex;
+  justify-content: space-between;
 }
 .best-sellers {
   border: none;
@@ -88,7 +105,7 @@ nav .logo {
 }
 .newsletter .subscribe {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
 }
 .newsletter .subscribe p {
@@ -99,6 +116,7 @@ nav .logo {
 .newsletter .email-input {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 .newsletter .email-input div {
   margin: 0;
@@ -116,5 +134,6 @@ nav .logo {
   font-size: 1.4rem;
   padding: 10px 20px;
   background-color: #000;
+  border-color: #000;
 }
 /*# sourceMappingURL=index.css.map */
