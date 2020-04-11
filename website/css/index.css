@@ -38,4 +38,7 @@ nav .logo {
 .best-sellers:hover {
   box-shadow: 0 14px 28px rgba(189, 189, 189, 0.25), 0 10px 10px rgba(158, 158, 158, 0.22);
 }
+.jumbo-text {
+  font-size: 1.6rem;
+}
 /*# sourceMappingURL=index.css.map */
