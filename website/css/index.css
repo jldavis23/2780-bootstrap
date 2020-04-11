@@ -64,6 +64,7 @@ nav .logo {
   background-color: #9aaf8c;
   border-color: #9aaf8c;
   margin: 20px 0;
+  border-radius: 0;
   padding: 12px;
 }
 .about-button:hover {
@@ -79,5 +80,41 @@ nav .logo {
 .review img {
   width: 15%;
   margin-bottom: 10px;
+}
+.newsletter {
+  background-color: #9aaf8c;
+  font-size: 1.8rem;
+  padding: 50px 0;
+}
+.newsletter .subscribe {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.newsletter .subscribe p {
+  font-size: 2.5rem;
+  color: #fff;
+  margin: 0;
+}
+.newsletter .email-input {
+  display: flex;
+  align-items: center;
+}
+.newsletter .email-input div {
+  margin: 0;
+}
+.newsletter .email-input input {
+  padding: 20px 10px;
+  font-size: 1.6rem;
+  border-radius: 0;
+  border: none;
+  height: 100%;
+}
+.newsletter .email-input button {
+  height: 100%;
+  border-radius: 0;
+  font-size: 1.4rem;
+  padding: 10px 20px;
+  background-color: #000;
 }
 /*# sourceMappingURL=index.css.map */
