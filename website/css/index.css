@@ -12,6 +12,9 @@ a {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 1.6rem;
 }
+nav {
+  background: #9aaf8c;
+}
 nav .logo {
   font-family: 'Bebas Neue', cursive;
   font-size: 3.5rem;
