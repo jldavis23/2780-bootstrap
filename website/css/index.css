@@ -17,6 +17,7 @@ a {
   font-size: 3rem;
   text-align: center;
   margin: 50px 0 40px 0;
+  width: 100%;
 }
 .section-divide {
   margin-bottom: 90px;
@@ -68,5 +69,15 @@ nav .logo {
 .about-button:hover {
   background-color: #899e7b;
   border-color: #899e7b;
+}
+.reviews {
+  text-align: center;
+}
+.review {
+  padding-bottom: 30px;
+}
+.review img {
+  width: 15%;
+  margin-bottom: 10px;
 }
 /*# sourceMappingURL=index.css.map */
